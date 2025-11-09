@@ -8,8 +8,8 @@ const manrope = Manrope({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "v0 App",
-  description: "Created with v0",
-  generator: "v0.app",
+  description: "Created by Belvyn AI",
+  agency: "Belvyn AI"
 }
 
 export default function RootLayout({
