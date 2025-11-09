@@ -7,7 +7,7 @@ import "./globals.css"
 const manrope = Manrope({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "v0 App",
+  title: "Sign Up to Omniarc",
   description: "Created by Belvyn AI",
   agency: "Belvyn AI"
 }
